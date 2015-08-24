@@ -25,7 +25,7 @@ It will run:
 2-clean
 3-history terminal
 4-trash
-5-""")
+5-nd""")
 
 usuario = getpass.getuser()
 passw = input("escribe la contraseña del usuario / type user password:")
